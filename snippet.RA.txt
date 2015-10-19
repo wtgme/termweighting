@@ -1,0 +1,342 @@
+-------------------------------train-----------------
+/home/cike/Documents/wt/knn-entropy/experiment/TermWeighting/dataSets/snippets/knndata
+tf
+inter_cate_distance:	0.008522
+intra_cate_distance:	0.042671
+AR:	5.007272
+tfidf
+inter_cate_distance:	0.004506
+intra_cate_distance:	0.028915
+AR:	6.416358
+tfig
+inter_cate_distance:	0.008404
+intra_cate_distance:	0.042662
+AR:	5.076443
+tfchi
+inter_cate_distance:	0.000790
+intra_cate_distance:	0.116849
+AR:	147.840927
+tfrf
+inter_cate_distance:	0.003212
+intra_cate_distance:	0.054666
+AR:	17.018264
+iqfqficf
+inter_cate_distance:	0.005422
+intra_cate_distance:	0.044332
+AR:	8.175831
+eccd
+inter_cate_distance:	-0.001154
+intra_cate_distance:	0.116075
+AR:	-100.614564
+dc
+inter_cate_distance:	0.004222
+intra_cate_distance:	0.048419
+AR:	11.467249
+bdc
+inter_cate_distance:	0.003777
+intra_cate_distance:	0.050471
+AR:	13.362032
+tfen
+inter_cate_distance:	0.002972
+intra_cate_distance:	0.050796
+AR:	17.090811
+tfben
+inter_cate_distance:	0.002787
+intra_cate_distance:	0.052641
+AR:	18.889977
+dctp
+inter_cate_distance:	0.004183
+intra_cate_distance:	0.083665
+AR:	20.003367
+tfentp
+inter_cate_distance:	0.002879
+intra_cate_distance:	0.076637
+AR:	26.615345
+----------------------------------------------------------------
+
+------------------------test----------------------------------
+
+
+
+/home/cike/Documents/wt/knn-entropy/experiment/TermWeighting/dataSets/snippets/knndata
+tf
+inter_cate_distance:	0.006034
+intra_cate_distance:	0.063417
+AR:	10.510190
+tfidf
+inter_cate_distance:	0.003022
+intra_cate_distance:	0.059254
+AR:	19.604598
+tfig
+inter_cate_distance:	0.005958
+intra_cate_distance:	0.063386
+AR:	10.639395
+tfchi
+inter_cate_distance:	0.006952
+intra_cate_distance:	0.094906
+AR:	13.651395
+tfrf
+inter_cate_distance:	0.003880
+intra_cate_distance:	0.071174
+AR:	18.343662
+iqfqficf
+inter_cate_distance:	0.005816
+intra_cate_distance:	0.052885
+AR:	9.093523
+eccd
+inter_cate_distance:	0.006561
+intra_cate_distance:	0.095929
+AR:	14.622134
+dc
+inter_cate_distance:	0.003009
+intra_cate_distance:	0.057283
+AR:	19.036640
+bdc
+inter_cate_distance:	0.002633
+intra_cate_distance:	0.061934
+AR:	23.526397
+tfen
+inter_cate_distance:	0.002084
+intra_cate_distance:	0.072437
+AR:	34.764559
+tfben
+inter_cate_distance:	0.001881
+intra_cate_distance:	0.076868
+AR:	40.869867
+dctp
+inter_cate_distance:	0.004669
+intra_cate_distance:	0.075151
+AR:	16.095071
+tfentp
+inter_cate_distance:	0.003376
+intra_cate_distance:	0.087594
+AR:	25.947337
+
+
+-----------------------------------------Normalize---train--------------
+/home/cike/Documents/wt/knn-entropy/experiment/TermWeighting/dataSets/snippets/knndata
+tf
+/home/cike/Documents/wt/knn-entropy/experiment/TermWeighting/dataSets/snippets/knndata
+tf
+inter_cate_distance:	0.008522
+intra_cate_distance:	0.042671
+AR:	5.007272
+tfidf
+inter_cate_distance:	0.004506
+intra_cate_distance:	0.028915
+AR:	6.416358
+tfchi
+inter_cate_distance:	0.000790
+intra_cate_distance:	0.116849
+AR:	147.840927
+tfig
+inter_cate_distance:	0.008404
+intra_cate_distance:	0.042662
+AR:	5.076443
+tfrf
+inter_cate_distance:	0.003212
+intra_cate_distance:	0.054666
+AR:	17.018264
+iqfqficf
+inter_cate_distance:	0.005422
+intra_cate_distance:	0.044332
+AR:	8.175831
+eccd
+inter_cate_distance:	-0.000217
+intra_cate_distance:	0.058114
+AR:	-267.219705
+dc
+inter_cate_distance:	0.004222
+intra_cate_distance:	0.048419
+AR:	11.467249
+bdc
+inter_cate_distance:	0.003777
+intra_cate_distance:	0.050471
+AR:	13.362032
+tfen
+inter_cate_distance:	0.002972
+intra_cate_distance:	0.050796
+AR:	17.090811
+tfben
+inter_cate_distance:	0.002787
+intra_cate_distance:	0.052641
+AR:	18.889977
+dctp
+inter_cate_distance:	0.004183
+intra_cate_distance:	0.083665
+AR:	20.003367
+tfentp
+inter_cate_distance:	0.002879
+intra_cate_distance:	0.076637
+AR:	26.615345
+
+----------------normalization	----test	-------
+/home/cike/Documents/wt/knn-entropy/experiment/TermWeighting/dataSets/snippets/knndata
+tf
+inter_cate_distance:	0.006034
+intra_cate_distance:	0.063417
+AR:	10.510190
+tfidf
+inter_cate_distance:	0.003022
+intra_cate_distance:	0.059254
+AR:	19.604598
+tfchi
+inter_cate_distance:	0.006952
+intra_cate_distance:	0.094906
+AR:	13.651395
+tfig
+inter_cate_distance:	0.005958
+intra_cate_distance:	0.063386
+AR:	10.639395
+tfrf
+inter_cate_distance:	0.003880
+intra_cate_distance:	0.071174
+AR:	18.343662
+iqfqficf
+inter_cate_distance:	0.005816
+intra_cate_distance:	0.052885
+AR:	9.093523
+eccd
+inter_cate_distance:	0.001513
+intra_cate_distance:	0.073447
+AR:	48.555005
+dc
+inter_cate_distance:	0.003009
+intra_cate_distance:	0.057283
+AR:	19.036640
+bdc
+inter_cate_distance:	0.002633
+intra_cate_distance:	0.061934
+AR:	23.526397
+tfen
+inter_cate_distance:	0.002084
+intra_cate_distance:	0.072437
+AR:	34.764559
+tfben
+inter_cate_distance:	0.001881
+intra_cate_distance:	0.076868
+AR:	40.869867
+dctp
+inter_cate_distance:	0.004669
+intra_cate_distance:	0.075151
+AR:	16.095071
+tfentp
+inter_cate_distance:	0.003376
+intra_cate_distance:	0.087594
+AR:	25.947337
+-------------------------normalization-----2-norm	distance----train------------
+
+
+/home/cike/Documents/wt/knn-entropy/experiment/TermWeighting/dataSets/snippets/knndata
+tf
+/home/cike/Documents/wt/knn-entropy/experiment/TermWeighting/dataSets/snippets/knndata
+tf
+/home/cike/Documents/wt/knn-entropy/experiment/TermWeighting/dataSets/snippets/knndata
+tf
+inter_cate_distance:	1.409133
+intra_cate_distance:	1.387724
+AR:	0.984807
+tfidf
+inter_cate_distance:	1.411737
+intra_cate_distance:	1.397148
+AR:	0.989666
+tfchi
+inter_cate_distance:	1.417112
+intra_cate_distance:	1.302645
+AR:	0.919225
+tfig
+inter_cate_distance:	1.409216
+intra_cate_distance:	1.387730
+AR:	0.984753
+tfrf
+inter_cate_distance:	1.413182
+intra_cate_distance:	1.376757
+AR:	0.974225
+iqfqficf
+inter_cate_distance:	1.410927
+intra_cate_distance:	1.381174
+AR:	0.978912
+eccd
+inter_cate_distance:	1.416026
+intra_cate_distance:	1.371868
+AR:	0.968816
+dc
+inter_cate_distance:	1.411321
+intra_cate_distance:	1.378554
+AR:	0.976783
+bdc
+inter_cate_distance:	1.411645
+intra_cate_distance:	1.376987
+AR:	0.975448
+tfen
+inter_cate_distance:	1.412782
+intra_cate_distance:	1.380329
+AR:	0.977029
+tfben
+inter_cate_distance:	1.412878
+intra_cate_distance:	1.378902
+AR:	0.975952
+dctp
+inter_cate_distance:	1.411788
+intra_cate_distance:	1.347084
+AR:	0.954169
+tfentp
+inter_cate_distance:	1.413340
+intra_cate_distance:	1.356483
+AR:	0.959771
+
+-------------------------normalization-----2-norm	distance----test------------
+-------------------------normalization-----2-norm	distance----test------------
+/home/cike/Documents/wt/knn-entropy/experiment/TermWeighting/dataSets/snippets/knndata
+tf
+inter_cate_distance:	1.410690
+intra_cate_distance:	1.371256
+AR:	0.972046
+tfidf
+inter_cate_distance:	1.412604
+intra_cate_distance:	1.373064
+AR:	0.972009
+tfchi
+inter_cate_distance:	1.410164
+intra_cate_distance:	1.334148
+AR:	0.946094
+tfig
+inter_cate_distance:	1.410740
+intra_cate_distance:	1.371258
+AR:	0.972013
+tfrf
+inter_cate_distance:	1.412150
+intra_cate_distance:	1.363772
+AR:	0.965742
+iqfqficf
+inter_cate_distance:	1.410194
+intra_cate_distance:	1.374996
+AR:	0.975040
+eccd
+inter_cate_distance:	1.413552
+intra_cate_distance:	1.357860
+AR:	0.960601
+dc
+inter_cate_distance:	1.412169
+intra_cate_distance:	1.371433
+AR:	0.971154
+bdc
+inter_cate_distance:	1.412419
+intra_cate_distance:	1.367414
+AR:	0.968136
+tfen
+inter_cate_distance:	1.413190
+intra_cate_distance:	1.361314
+AR:	0.963292
+tfben
+inter_cate_distance:	1.413264
+intra_cate_distance:	1.356752
+AR:	0.960013
+dctp
+inter_cate_distance:	1.410969
+intra_cate_distance:	1.356213
+AR:	0.961193
+tfentp
+inter_cate_distance:	1.412315
+intra_cate_distance:	1.347587
+AR:	0.954169

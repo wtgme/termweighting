@@ -1,0 +1,22 @@
+实验：
+
+
+F:\文档\paper\entropy_knn\data中的java -jar r2s2x.jar [reuters21578目录的位置]将SGM格式的文档处理成XM.
+
+
+Reuters.java: 将只有一个topic的文档以及最大的前10个类的文档抽取出来作为语料库
+
+Preprocessing.java： 将文本格式的语料库转换成数字格式
+
+
+
+下载libsvm的数据，然后使用SVM2KNN转换成自己的格式
+然后使用schemeMain计算term weighting
+KNN2SVMFormat将KNN格式的文档形成SVM格式的文档
+然后使用SMVDataRormat生成文件使用svm分类（或使用KNN进行分类）
+
+
+1. preprocess/ String2Number.java 将字符文件转换成数字文件。
+2. schemes/SchemesMain.java 获得各个scheme的权值文件。
+3. knn/KNNFormat.java 获得文档的加权及归一化文件。
+4. 

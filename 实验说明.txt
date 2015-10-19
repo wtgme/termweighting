@@ -1,0 +1,20 @@
+ʵ�飺
+F:\�ĵ�\paper\entropy_knn\data�е�java -jar r2s2x.jar [reuters21578Ŀ¼��λ��]��SGM��ʽ���ĵ������XM.
+
+Reuters.java: ��ֻ��һ��topic���ĵ��Լ�����ǰ10������ĵ���ȡ������Ϊ���Ͽ�
+
+Preprocessing.java�� ���ı���ʽ�����Ͽ�ת�������ָ�ʽ
+
+
+����libsvm����ݣ�Ȼ��ʹ��SVM2KNNת�����Լ��ĸ�ʽ
+Ȼ��ʹ��schemeMain����term weighting
+KNN2SVMFormat��KNN��ʽ���ĵ��γ�SVM��ʽ���ĵ�
+Ȼ��ʹ��SMVDataRormat����ļ�ʹ��svm���ࣨ��ʹ��KNN���з��ࣩ
+
+
+1. preprocess/ String2Number.java ���ַ��ļ�ת���������ļ���
+2. schemes/SchemesMain.java ��ø���scheme��Ȩֵ�ļ���
+3. knn/KNNFormat.java ����ĵ��ļ�Ȩ����һ���ļ���
+4. svm/KNN2SVM.java ��knn�ĸ�ʽת����svm�ĸ�ʽ
+5. SIGIRKNN.java classification in KNN
+6. 
