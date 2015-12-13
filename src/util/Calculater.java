@@ -6,26 +6,45 @@ public class Calculater {
 	static double C = 4.0;
 
 	public static void main(String[] args) {
-		// double c0[] = {89.0, 9.0, 29.0, 8.0};
-		// double c1[] = {13.0, 10.0, 53.0, 3.0};
+//		double c0[] = {89.0, 9.0, 29.0, 8.0};
+//		double c1[] = {13.0, 10.0, 53.0, 3.0};
 		double c0[] = {23.0, 0.0, 0.0, 0.0};
 		double c1[] = {12.0, 8.0, 0.0, 0.0};
 		double c2[] = {12.0, 4.0, 3.0, 0.0};
 		double c3[] = {169.0, 10.0, 3.0, 6.0};
 		double c4[] = {0.8 / 0.9, 0.1 / 0.9};
-
+		double c5[] = {250, 0, 0, 0};
+		double c6[] = {25, 675, 0, 0};
+		double c7[] = {25, 0, 0, 0};
+		double c8[] = {1, 747, 0, 0};
+		double c9[] = {11, 95, 122, 31};
+		System.out.println(chi(c5));
+		System.out.println(chi(c6));
+		System.out.println(chi(c7));
+		System.out.println(chi(c8));
+		System.out.println(chi(c9));
+		
+		System.out.println("--------------------------");
+		
+		System.out.println(ig(c5));
+		System.out.println(ig(c6));
+		System.out.println(ig(c7));
+		System.out.println(ig(c8));
+		System.out.println(ig(c9));
 		// double c0[] = { 40.0 };
 		// double c1[] = { 10.0, 30.0 };
 		// double c2[] = { 10.0, 10.0, 10.0,10.0 };
 		// double c3[] = { 10.0, 28.0, 1.0, 1.0 };
 
-		System.out.println(idf(c0) + "\t" + chi(c0) + "\t" + ig(c0) + "\t"
+		System.out.println("ipo"+ "\t" + idf(c0) + "\t" + chi(c0) + "\t" + ig(c0) + "\t"
 				+ rf(c0) + "\t" + iqfqficf(c0) + "\t" + dc(c0) + "\t" + cr(c0));
-		System.out.println(idf(c1) + "\t" + chi(c1) + "\t" + ig(c1) + "\t"
+		System.out.println("amd"+ "\t" +idf(c1) + "\t" + chi(c1) + "\t" + ig(c1) + "\t"
 				+ rf(c1) + "\t" + iqfqficf(c1) + "\t" + dc(c1) + "\t" + cr(c1));
-		System.out.println(idf(c2) + "\t" + chi(c2) + "\t" + ig(c2) + "\t"
+		System.out.println("science"+ "\t" +idf(c9) + "\t" + chi(c9) + "\t" + ig(c9) + "\t"
+				+ rf(c9) + "\t" + iqfqficf(c9) + "\t" + dc(c9));
+		System.out.println("private"+ "\t" +idf(c2) + "\t" + chi(c2) + "\t" + ig(c2) + "\t"
 				+ rf(c2) + "\t" + iqfqficf(c2) + "\t" + dc(c2));
-		System.out.println(idf(c3) + "\t" + chi(c3) + "\t" + ig(c3) + "\t"
+		System.out.println("market"+ "\t" +idf(c3) + "\t" + chi(c3) + "\t" + ig(c3) + "\t"
 				+ rf(c3) + "\t" + iqfqficf(c3) + "\t" + dc(c3));
 		System.out.println(dc(c4));
 
